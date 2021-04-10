@@ -329,7 +329,6 @@ class video_analyzer(tk.Tk):
         filename = self.channel + '_' + str(self.port) + '_' + 'realtime_log.xlsx'
         workbook = xlsxwriter.Workbook(filename)
         worksheet = workbook.add_worksheet()
-        # workbook = openpyxl.Workbook()
 
         for name in xls_title:
             worksheet.write(data_row, data_col, name)
