@@ -15,14 +15,7 @@ import netifaces
 import csv
 import logging
 
-# import openpyxl
-# from openpyxl.chart import (
-#    LineChart,
-#    Reference,
-#    Series,
-# )
-# from openpyxl.chart.axis import DateAxis
-
+# used tshark command
 # tshark -i 1 -a duration:60 -d udp.port==%1,rtp -qz rtp,streams >> iptv.log
 # tshark -D
 
@@ -33,7 +26,6 @@ import logging
 
 # logging setting,10=DEBUG,20=INFO
 output_logging = 20
-
 
 class video_analyzer(tk.Tk):
     total_pkts = 0
@@ -143,10 +135,10 @@ class video_analyzer(tk.Tk):
         self.progressbar = ttk.Progressbar(top, orient="horizontal", length=300, mode="determinate")
         self.progressbar.pack(side=tk.BOTTOM)
 
+
     def read_csv(self, filename):
         table = []
         try:
-
             with open(filename) as csvfile:
                 reader = csv.reader(csvfile)  # change contents to floats
                 for row in reader:  # each row is a list
@@ -421,7 +413,6 @@ class video_analyzer(tk.Tk):
         return ipv4_addr
 
     def igmp_send(self, type):
-
         # sock.setsockopt(socket.IPPROTO_IP, socket.IP_MULTICAST_IF, socket.INADDR_ANY)
         mreq = struct.pack("4s4s", socket.inet_aton(self.channel), socket.inet_aton(self.iface_ipv4[self.iface_name]))
         if type == 'join':
