@@ -1,0 +1,65 @@
+ 2020/03/30 週一- 9:54:54.52 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.130624   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46869     0 (0.0%)            3.02            0.55            0.34 
+==============================================================
+ 2020/03/30 週一- 9:56:06.16 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.249000   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46964     1 (0.0%)            8.04            1.16            0.36 X
+==============================================================
+ 2020/03/30 週一- 9:57:17.11 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.222877   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46947     0 (0.0%)            2.61            0.58            0.34 
+==============================================================
+ 2020/03/30 週一- 9:58:28.18 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.052001   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46853     1 (0.0%)            4.98            1.08            0.38 X
+==============================================================
+ 2020/03/30 週一- 9:59:39.12 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.475994   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47149     0 (0.0%)            3.20            0.52            0.34 
+==============================================================
+ 2020/03/30 週一-10:00:51.11 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.490453   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47160     3 (0.0%)            4.00            0.55            0.36 X
+==============================================================
+ 2020/03/30 週一-10:02:03.19 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.221982   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46955     1 (0.0%)            3.00            0.53            0.29 X
+==============================================================
+ 2020/03/30 週一-10:03:14.17 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.303977   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47005     0 (0.0%)            2.54            0.56            0.28 
+==============================================================
+ 2020/03/30 週一-10:04:25.15 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.302553   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47030    10 (0.0%)            3.01            0.56            0.28 X
+==============================================================
+ 2020/03/30 週一-10:05:36.16 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.432986   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47116     0 (0.0%)            2.65            0.54            0.31 
+==============================================================
+ 2020/03/30 週一-10:06:47.18 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.353988   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 47041     7 (0.0%)            8.11            0.53            0.31 X
+==============================================================
+ 2020/03/30 週一-10:07:58.12 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     60.233628   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 46954     0 (0.0%)            2.53            0.55            0.32 
+==============================================================
+ 2020/03/30 週一-10:09:09.13 
+========================= RTP Streams ========================
+   Start time      End time     Src IP addr  Port    Dest IP addr  Port       SSRC          Payload  Pkts         Lost   Max Delta(ms)  Max Jitter(ms) Mean Jitter(ms) Problems?
+     0.000000     43.955772   192.168.33.11  2002     230.100.1.2  2002 0x1E8F828C  MPEG-II streams 34337     5 (0.0%)            3.98            0.51            0.31 X
+==============================================================
