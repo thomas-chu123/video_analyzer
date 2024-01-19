@@ -83,9 +83,9 @@ Ensure you have the following dependencies installed on your system:
 
 * **Python**: `version x.y.z`
 * 1. Python3
-2. Tshark (make sure /tshark is included in the subdirectory)
-3. xlsxwriter (python module running with source code)
-4. netifaces (python module running with source code)
+* 2. Tshark (make sure /tshark is included in the subdirectory)
+* 3. xlsxwriter (python module running with source code)
+* 4. netifaces (python module running with source code)
 
 ###  Installation
 
@@ -114,8 +114,9 @@ Use the following command to run video_analyzer:
 ```sh
 python main.py
 ```
-1. Use video_check.exe to execute the tool
-
+```
+Use video_check.exe to execute the tool
+```
 ###  Tests
 
 To execute tests, run:
